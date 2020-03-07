@@ -1,0 +1,33 @@
+.menu.borderless.topmenu {
+  box-shadow: none;
+  border: none;
+  padding-top: 20px;
+}
+
+.Join{
+  background-color: #006241;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: 30px;
+}
+
+.treat{
+  background-color: #DFECE5;
+  color: #006241;
+  font-size: 50px;
+  text-align: center;
+  padding: 35px 20px;
+  margin: 30px;
+}
+
+.Icons{
+  padding-bottom: 10px;
+}
+
+.bottommenu {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 80px;
+  border: none;
+}
